@@ -25,3 +25,14 @@ img {
   margin: 5px 10px 0 0;
   cursor: pointer;
 }
+@media (max-width: 550px) {
+  .row {
+    margin: 50px 10px;
+  }
+  img {
+    height: 450px;
+  }
+  .small_col img {
+    height: 62px;
+  }
+}
