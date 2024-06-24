@@ -7,7 +7,7 @@ This HTML, CSS and JS project based on selection of image and that selected imag
 <h4>How it works:</h4>
 <ul>
     <li><bold>Step 1:</bold> let mainimage and small_image from html using document.getelementbyId and document.getelementbyClassName</li>
-    <li><bold>Step 2:</bold> Create a Function when user Click on small image then small inage replaced by main image</li>
+    <li><bold>Step 2:</bold> Create a Function when user Click on small image then small image replaced by main image</li>
     
    ```Javascript
     small_img[0].onclick = function () {
